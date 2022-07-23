@@ -115,16 +115,4 @@ const officers = [
 // console.log(`rebels: ${JSON.stringify(rebels)}, imperials: ${JSON.stringify(imperials)}`);
 
 // resource for these notes: https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
+
